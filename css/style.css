@@ -95,7 +95,7 @@ button {
 
 .information h1 {
     font: 36px;
-    font-weight: bolder;
+    font-weight: 700;
     color: #1F2937;
     margin: 0;
 }
@@ -115,14 +115,14 @@ button {
 }
 
 .info-item .image-border {
-    border: 2px solid #3882F6;
+    border: 3px solid #3882F6;
     width: 150px;
     height: 150px;
-    border-radius: 7px;
+    border-radius: 10px;
 }
 
 .info-item p {
-    margin: 0;
+    margin: 12px 0;
 }
 
 .quote-container {
